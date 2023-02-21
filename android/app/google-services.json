@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "585674349015",
+    "project_id": "sm-box-social-media-box",
+    "storage_bucket": "sm-box-social-media-box.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585674349015:android:5024ddd4e4bfd2de9f1392",
+        "android_client_info": {
+          "package_name": "com.social_media_box"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "585674349015-dndvtb3sdibhmrlfecfjp4qua19mnqef.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.social_media_box",
+            "certificate_hash": "7ff89148385c31d18b2d212008a546ec526fa872"
+          }
+        },
+        {
+          "client_id": "585674349015-a3dfcs2ld5nrntkmnrqspkcheb9u94vt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7IXeHxaVbFn9zi1kmA7ZGrKNBvQLkx4E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "585674349015-a3dfcs2ld5nrntkmnrqspkcheb9u94vt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-5845328537405791~5413898262"
+    }
+  ],
+  "configuration_version": "1"
+}
