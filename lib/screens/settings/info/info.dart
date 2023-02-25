@@ -57,7 +57,10 @@ class InfoScreen extends StatelessWidget {
                       MediaQuery.of(context).size.height * 0.40),
                 ),
                 onPressed: () {
-                  updateApp.checkForUpdate();
+                  updateApp.updateInfo.value.updateAvailability ==
+                          UpdateAvailability.updateAvailable
+                      ? updateApp.flexibleUpdate()
+                      : updateApp.checkForUpdate();
                 },
                 child: Padding(
                   padding: const EdgeInsets.all(8.0),

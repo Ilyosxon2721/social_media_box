@@ -1,4 +1,4 @@
-package app.social_media_box
+package com.social_media_box
 
 import io.flutter.embedding.android.FlutterFragmentActivity;
 
